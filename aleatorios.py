@@ -1,7 +1,7 @@
 """
 Módulo para la generación de números aleatorios usando el algoritmo LGC.
 
-Autor: Pere [Afegeix els teus cognoms]
+Autor: Pere Villaronga Folguera
 Descripción: Este módulo implementa un generador lineal congruente (LGC) 
 mediante una clase iterable (Aleat) y una función generadora (aleat).
 """
